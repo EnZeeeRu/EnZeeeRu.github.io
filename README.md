@@ -122,5 +122,3 @@
 		<div class="description">Where I got the Workshop mods I made (mostly NSFW), as you seem them in L4D2 mod collections such as "Cringe compilation" and "Furry Trash"!.</div>
 		<a href="https://steamcommunity.com/id/zeeezeeezeee/myworkshopfiles/" target="_blank" class="link">Subscribe to my MODS</a>
 	</div>
-	</body>
-</html>
