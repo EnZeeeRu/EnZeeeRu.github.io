@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Linktree Page</title>
+  <title>Enzeru's Links WebPage</title>
   <style>
     body {
 	background-color: #f5f5f5;
@@ -88,48 +88,43 @@
 </head>
 <body>
   <header>
-    <h1>My Linktree Page</h1>
+    <h1>Enzeru's Links WebPage</h1>
   </header>
 <div class="container">
 	<div class="item">
-		<div class="title">My Instagram</div>
-		<div class="description">Follow me on Instagram for daily updates!</div>
-		<a href="https://www.instagram.com/myusername/" target="_blank" class="link">Follow</a>
+		<div class="title">My Furaffinity</div>
+		<div class="description">Subscribe to my Furaffinity, give me a +Watch and some Favs while at it!.</div>
+		<a href="https://www.furaffinity.net/user/enzeru.freeman" target="_blank" class="link">+Watch</a>
 	</div>
 	<div class="item">
-		<div class="title">My YouTube Channel</div>
-		<div class="description">Subscribe to my YouTube channel for new videos every week!</div>
-		<a href="https://www.youtube.com/channel/mychannel" target="_blank" class="link">Subscribe</a>
+		<div class="title">My Telegram</div>
+		<div class="description">Send me a message and let's chat a while! am Pm friendly!.</div>
+		<a href="https://t.me/enzeeeru" target="_blank" class="link">Send a Message</a>
+	</div>
+	<div class="item">
+		<div class="title">My TG XxX Channel</div>
+		<div class="description">The TG channel where I post horny stuff!.</div>
+		<a href="https://t.me/ezstash" target="_blank" class="link">Join</a>
 	</div>
 	<div class="item">
 		<div class="title">My Twitter</div>
-		<div class="description">Follow me on Twitter for tweets about my daily life!</div>
-		<a href="https://twitter.com/myusername" target="_blank" class="link">Follow</a>
+		<div class="description">My Twitter where I post drawings I get comissioned and RT some MORE horny stuff!.</div>
+		<a href="https://twitter.com/en_zeee" target="_blank" class="link">Follow</a>
+	</div>
+	<div class="item">
+		<div class="title">My Reddit</div>
+		<div class="description">My Reddit where I (for some reason) got +100K and I post stuff form horny to memes!.</div>
+		<a href="https://www.reddit.com/user/EnZeeeRu" target="_blank" class="link">Follow</a>
+	</div>
+	<div class="item">
+		<div class="title">My Steam Profile</div>
+		<div class="description">My Steam profile, where you can see what am playing and maybe add me so we can play some!.</div>
+		<a href="https://steamcommunity.com/id/zeeezeeezeee" target="_blank" class="link">Add as Friend</a>
 	</div>
 	<div class="item">
 		<div class="title">My Website</div>
-		<div class="description">Visit my website to learn more about me and my work!</div>
-		<a href="https://www.mywebsite.com" target="_blank" class="link">Visit</a>
-	</div>
-	<div class="item">
-		<div class="title">My Website</div>
-		<div class="description">Visit my website to learn more about me and my work!</div>
-		<a href="https://www.mywebsite.com" target="_blank" class="link">Visit</a>
-	</div>
-	<div class="item">
-		<div class="title">My Website</div>
-		<div class="description">Visit my website to learn more about me and my work!</div>
-		<a href="https://www.mywebsite.com" target="_blank" class="link">Visit</a>
-	</div>
-	<div class="item">
-		<div class="title">My Website</div>
-		<div class="description">Visit my website to learn more about me and my work!</div>
-		<a href="https://www.mywebsite.com" target="_blank" class="link">Visit</a>
-	</div>
-	<div class="item">
-		<div class="title">My Website</div>
-		<div class="description">Visit my website to learn more about me and my work!</div>
-		<a href="https://www.mywebsite.com" target="_blank" class="link">Visit</a>
+		<div class="description">Where I got the Workshop mods I made (mostly NSFW), as you seem them in L4D2 mod collections such as "Cringe compilation" and "Furry Trash"!.</div>
+		<a href="https://steamcommunity.com/id/zeeezeeezeee/myworkshopfiles/" target="_blank" class="link">Subscribe to my MODS</a>
 	</div>
 	</body>
 </html>
