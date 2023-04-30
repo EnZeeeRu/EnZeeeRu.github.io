@@ -122,3 +122,6 @@
 		<div class="description">Where I got the Workshop mods I made (mostly NSFW), as you seem them in L4D2 mod collections such as "Cringe compilation" and "Furry Trash"!.</div>
 		<a href="https://steamcommunity.com/id/zeeezeeezeee/myworkshopfiles/" target="_blank" class="link">Subscribe to my MODS</a>
 	</div>
+<header>
+	<h1>This is a small Webpage done in a few strings of code for fun, and cause I wanted to overcomplicate myself every time I had to edit my links index, SO! am moving form Linktr.ee's easy to use UI to literally strings of code on a screen!! :D.</h1>
+</header>
