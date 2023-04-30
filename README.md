@@ -86,6 +86,9 @@
   </style>
 </head>
 <body>
+	<header>
+		<h1>Enzeru's Homepage</h1>
+	</header>
 <div class="container">
 	<div class="item">
 		<div class="title">My Furaffinity</div>
