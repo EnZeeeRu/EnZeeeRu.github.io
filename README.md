@@ -85,9 +85,6 @@
     }
   </style>
 </head>
-<header>
-	<h1>Enzeru's Homepage</h1>
-</header>
 <body>
 <div class="container">
 	<div class="item">
