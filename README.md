@@ -118,7 +118,7 @@
 		<a href="https://steamcommunity.com/id/zeeezeeezeee" target="_blank" class="link">Add as Friend</a>
 	</div>
 	<div class="item">
-		<div class="title">My Website</div>
+		<div class="title">My Steam Workshop</div>
 		<div class="description">Where I got the Workshop mods I made (mostly NSFW), as you seem them in L4D2 mod collections such as "Cringe compilation" and "Furry Trash"!.</div>
 		<a href="https://steamcommunity.com/id/zeeezeeezeee/myworkshopfiles/" target="_blank" class="link">Subscribe to my MODS</a>
 	</div>
